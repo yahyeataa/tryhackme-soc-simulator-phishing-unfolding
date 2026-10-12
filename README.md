@@ -315,7 +315,7 @@ All 30 triaged alerts, newest first. `TTR` = time to resolve in minutes; `TP` = 
 
 ## Author
 
-**Yahye Abdullahi ** — aspiring SOC Analyst (Tier 1) | TryHackMe SOC Level 1 track
+**Yahye Abdullahi** — aspiring SOC Analyst (Tier 1) | TryHackMe SOC Level 1 track
 
 *If you're hiring for blue team / SOC roles and would like to discuss the triage decisions in this repository, feel free to reach out.*
 
