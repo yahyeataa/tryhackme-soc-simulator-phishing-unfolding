@@ -309,14 +309,13 @@ All 30 triaged alerts, newest first. `TTR` = time to resolve in minutes; `TP` = 
 
 ## References
 
-* [TryHackMe SOC Simulator](https://tryhackme.com/soc-sim) — scenario platform
 * [Public run summary — verified result record](https://tryhackme.com/soc-sim/public-summary/3b9f504914047251ca08caacd1e0b051e9f01d39543466b60755c78a5345e630829db229c4e50872ce3971db23a67da7)
 
 ---
 
 ## Author
 
-**Yahye Abdullahi** — aspiring SOC Analyst (Tier 1) | TryHackMe SOC Level 1 track
+**Yahye Abdullahi ** — aspiring SOC Analyst (Tier 1) | TryHackMe SOC Level 1 track
 
 *If you're hiring for blue team / SOC roles and would like to discuss the triage decisions in this repository, feel free to reach out.*
 
