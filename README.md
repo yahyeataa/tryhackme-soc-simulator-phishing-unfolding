@@ -301,7 +301,7 @@ All 30 triaged alerts, newest first. `TTR` = time to resolve in minutes; `TP` = 
 | 1003 | Suspicious email from external domain. | Low | Phishing | 2.55 | FP | Correct |
 | 1002 | Suspicious Parent Child Relationship | Low | Process | 2.25 | FP | Correct |
 | 1001 | Suspicious Parent Child Relationship | Low | Process | 1.98 | FP | Correct |
-| 1000 | Suspicious email from external domain. | Low | Phishing | 4.27 | FP | Correct |
+| 1000 | Suspicious email from external domain. | Low | Phishing | 4.27 | fp | Correct |
 
 **Derived totals.** 30 alerts triaged · 15 confirmed true positives · 15 correctly dismissed false positives · 100% TP and 100% FP identification accuracy · mean TTR 2.97 min · median TTR 2.67 min.
 
